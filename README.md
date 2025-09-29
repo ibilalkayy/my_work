@@ -19,6 +19,7 @@ Below is my work:
 - [Younix](https://github.com/ibilalkayy/younix) - Unix Command-Line Tools in Rust
 - [Move](https://github.com/ibilalkayy/move) - A budget planning application that integrates with Ethereum
 - [Fara](https://github.com/ibilalkayy/fara) - Find and replace text application that finds the data from a file
+- [Cover](https://github.com/ibilalkayy/cover) - A Rust-powered command-line tool for syncing, archiving, restoring, and scheduling backups with ease
 - [OnlyChat](https://github.com/ibilalkayy/onlychat) - A CLI app that offers seamless real-time communication with support for rooms
 
 ## 📄 License
